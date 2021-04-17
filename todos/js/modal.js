@@ -68,8 +68,6 @@ class Modal {
     }
 
 
-
-
 }
 
 Element.prototype.appendAfter = function(element) {
